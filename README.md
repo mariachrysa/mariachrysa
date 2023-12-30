@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Welcome! 👋
 
 I'm Maria, a computer science student pursuing my bachelor's degree. My main focus is on AI and Machine Learning, but I am open to anything.
 
