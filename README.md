@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**mariachrysa/mariachrysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maria, a computer science student pursuing my bachelor's degree. My main focus is on AI and Machine Learning, but I am open to anything.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Java
+- C/C++
+- Python
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+I'm passionate about using technology to solve real-world problems, with a specific interest in AI and Machine Learning.
+
+## 🌱 Currently Learning
+Exploring advanced concepts in AI and diving into the intricacies of machine learning models.
