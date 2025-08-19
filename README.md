@@ -14,3 +14,4 @@ I'm passionate about using technology to solve real-world problems, with a speci
 ## Currently Learning
 - Java SpringBoot + API microservices development
 - Unity + LLM integration
+- Data Science
